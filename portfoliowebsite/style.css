@@ -1,0 +1,439 @@
+*{
+    box-sizing: border-box;
+    margin: 50;
+    padding: 50;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:rgb(28,53,100);
+    
+}
+
+body{
+    background-color: rgb(255, 233, 250);
+}
+
+.sofiacloud{
+   /* display: inline-block; */
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 750px;
+}
+.expercloud{
+   display: block;
+   position:absolute;
+   margin-top: 25px;
+   margin-left: 2%;
+   width: 190px;
+   margin-bottom: 10px;
+}
+
+.exper{
+    position:absolute;
+    top: 1105px;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    font-size: 20px; 
+    margin-bottom: 20px;
+}
+
+.Big{
+    position:absolute;
+    top: 300px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px; 
+}
+
+.small{
+    position:absolute;
+    top: 430px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 23px; 
+    line-height: 30px;
+    text-align: center;
+    width: 500px;
+    font-weight: 500;
+}
+
+.experiencerect{
+    margin-top: 90px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width:1200px;
+    height: 300px;
+    border: 1px;
+    background-color: rgb(255, 245, 191);
+    margin-left: 2.5%;
+    border-radius: 30px;
+}
+
+.jobtitle{
+    font-weight: bold;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+
+.subtitle{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-style: italic;
+}
+
+.extraspecial{
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    margin-top: 7px;
+}
+
+.tutor{
+    display:inline-block;
+    width: 380px;
+    margin-top: 5px;
+    padding-top: 30px;
+
+}
+
+.founder{
+    display:inline-block;
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 380px;
+}
+
+.intern{
+    display:inline-block;
+    padding-left: 20px;
+    width: 380px;
+    padding-right: 0;
+    margin-right: 0;
+}
+
+.intern2{
+    display:inline-block;
+    width: 380px;
+    line-height: 21px;
+}
+
+.collegecredit{
+    display:inline-block;
+    width: 380px;
+    padding-left: 20px;
+    padding-top: 0;
+}
+
+.certificate{
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.spacer{
+    color:rgb(255, 245, 191) ;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.sofcloud{
+   display: block;
+   position:absolute;
+   margin-top: 25px;
+   margin-left: 2%;
+   width: 190px;
+   margin-bottom: 10px;
+}
+
+.sof{
+    position:absolute;
+    padding-top: 140px;
+    width: 160px;
+    left: 12.25%;
+    transform: translate(-50%, -50%);
+    font-size: 20px; 
+    margin-bottom: 20px;
+}
+.softrect{
+    margin-top: 75px;
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width:1200px;
+    height:420px;
+    border: 1px;
+    background-color: rgb(255, 245, 191);
+    margin-left: 2.5%;
+    border-radius: 30px;
+}
+
+.softext{
+    padding-top:200px;
+}
+
+.software{
+    height: 210px;
+    padding-left: 40px;
+    padding-top: 10px;
+    position: absolute;
+    display: block;
+    margin-bottom: 0;
+}
+.click{
+   display: block;
+   position:absolute;
+   font-size: 8px;
+   padding-top: 80px;
+   margin-left: 220px;
+   width: 190px;
+   margin-bottom: 20px;
+}
+
+.python{
+   display: block;
+   position:absolute;
+   margin-top: 20px;
+   padding-top: 125px;
+   margin-left: 77px;
+   width: 190px;
+   margin-bottom: 20px;
+}
+
+.p2{
+    margin-top: 0;
+    width: 150px;
+    margin-left: 40px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.j2{
+    margin-top: 0;
+    width: 150px;
+    margin-left: 7px;
+    font-weight: 500;
+    display: inline-block
+}
+
+.h2{
+    margin-top: 0;
+    padding-top: 0;
+    width: 150px;
+    margin-left: 7px;
+    font-weight: 500;
+    display: inline-block
+}
+
+.cs2{
+    margin-top: 0;
+    width: 150px;
+    margin-left: 7px;
+    font-weight: 500;
+    display: inline-block
+}
+
+.c2{
+    margin-top: 0;
+    width: 150px;
+    margin-left: 7px;
+    font-weight: 500;
+    display: inline-block
+}
+
+.ca2{
+    margin-top: 0;
+    width: 150px;
+    margin-left: 7px;
+    font-weight: 500;
+    display: inline-block
+}
+
+.pr2{
+    margin-top: 0;
+    width: 150px;
+    margin-left: 0px;
+    font-weight: 500;
+    display: inline-block
+}
+
+
+
+
+
+
+.javascript{
+    display: block;
+    position:absolute;
+    margin-top: 20px;
+    padding-top: 125px;
+    margin-left: 240px;
+    width: 190px;
+    margin-bottom: 20px;
+ }
+
+ .html{
+    display: block;
+    position:absolute;
+    margin-top: 20px;
+    padding-top: 125px;
+    margin-left: 420px;
+    width: 190px;
+    margin-bottom: 20px;
+ }
+
+ .css{
+    display: block;
+    position:absolute;
+    margin-top: 20px;
+    padding-top: 125px;
+    margin-left: 570px;
+    width: 190px;
+    margin-bottom: 20px;
+ }
+
+ .c{
+    display: block;
+    position:absolute;
+    margin-top: 20px;
+    padding-top: 125px;
+    margin-left: 720px;
+    width: 190px;
+    margin-bottom: 20px;
+ }
+
+ .canva{
+    display: block;
+    position:absolute;
+    margin-top: 20px;
+    padding-top: 125px;
+    margin-left: 860px;
+    width: 190px;
+    margin-bottom: 20px;
+ }
+
+ .procreate{
+    display: block;
+    position:absolute;
+    margin-top: 20px;
+    padding-top: 125px;
+    margin-left: 1005px;
+    width: 190px;
+    margin-bottom: 20px;
+ }
+
+ .projcloud{
+    display: block;
+    position:absolute;
+    margin-top: 25px;
+    margin-left: 2%;
+    width: 190px;
+    margin-bottom: 0px;
+ }
+
+ .proj{
+    position:absolute;
+    top: 1495px;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    font-size: 20px; 
+}
+
+.projrect{
+    display: flex;
+    margin-right: 20px;
+}
+.projrect1{
+    flex: 10.33%;
+    padding: 0px;
+    margin-top: 75px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height:380px;
+    border: 1px;
+    background-color: rgb(255, 245, 191);
+    margin-left: 2.5%;
+    border-radius: 30px;
+}
+
+.projrect2{
+    flex: 10.33%;
+    padding: 0px;
+    margin-top: 75px;
+    margin-left: 100;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 20px;
+    height:380px;
+    border: 1px;
+    background-color: rgb(255, 245, 191);
+    margin-left: 2.5%;
+    border-radius: 30px;
+}
+
+.projrect3{
+    flex: 10.33%;
+    padding: 0px;
+    margin-top: 75px;
+    margin-left: 100;
+    padding-left: 15px;
+    padding-right: 15px;
+    height:380px;
+    border: 1px;
+    background-color: rgb(255, 245, 191);
+    margin-left: 2.5%;
+    border-radius: 30px;
+}
+
+.website{
+    margin-top: 30px;
+    margin-left: 50px;
+    height: 200px;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+}
+
+.concloud{
+   display: block;
+   position:absolute;
+   margin-top: 0px;
+   margin-left: 1%;
+   width: 190px;
+   margin-bottom: 10px;
+}
+
+.con{
+    position:absolute;
+    top: 1925px;
+    left: 9%;
+    transform: translate(-50%, -50%);
+    font-size: 20px; 
+    margin-bottom: 20px;
+}
+.connrect{
+    margin-top: 75px;
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 50px;
+    width:1200px;
+    height:155px;
+    border: 1px;
+    background-color: rgb(255, 245, 191);
+    margin-left: 2.5%;
+    border-radius: 30px;
+}
+.connect{
+    background-color: white;
+    border-color:rgb(255, 245, 191);
+    color: aquamarine;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-style:double;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+.connect:hover{
+    background-color: rgb(255, 245, 191);
+
+}
